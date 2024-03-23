@@ -1,0 +1,50 @@
+
+                               Price – Discounted Selling Price      
+  Discounted percentage =     ----------------------------------    * 100  ------ (1)
+                                        Price
+
+
+                               (Price * 100) – (Discounted Selling Price * 100)   
+  Discounted percentage =        ---------------------------------------------     ------ (2) 
+                                                    Price
+
+
+                               (Price * 100) – (Discounted Selling Price * 100)   
+  Discounted percentage =        ----------      ---------------------------     ------ (3) 
+                                    Price                     Price
+
+
+                                100    – (Discounted Selling Price * 100)   
+  Discounted percentage =                 ---------------------------           ------ (4) 
+                                                      Price
+
+    Move 100 to the other side of the equation
+
+
+                                    – (Discounted Selling Price * 100)   
+  Discounted percentage  - 100  =      ---------------------------           ------ (5) 
+                                                    Price
+
+Multiply both side of the equation by - 1
+
+
+                                   (Discounted Selling Price * 100)   
+  100 - Discounted percentage   =    ---------------------------           ------ (6) 
+                                                  Price
+
+Cross Multiply by price
+
+                                              
+  (100 - Discounted percentage) Price  =    (Discounted Selling Price * 100)    ------ (7)
+
+
+Make Price the subject of Formula
+
+ 
+                (Discounted Selling Price * 100)   
+  Price    =    ---------------------------                                   ------ (8) 
+                 100 - Discounted percentage                       
+                                                
+                                                  (Discounted Selling Price * 100)
+Selling Price before Discount (SP_Before_Dis) =   ---------------------------                
+                                                  100 - Discounted percentage                                                    a                                  
